@@ -1,0 +1,12 @@
+{
+  "area": "dialogues",
+  "dialogueCount": 40,
+  "turnCount": 320,
+  "byLevel": {
+    "A1": 40
+  },
+  "byDomain": {
+    "campus": 20,
+    "daily-life": 20
+  }
+}

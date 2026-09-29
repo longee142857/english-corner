@@ -1,0 +1,22 @@
+{
+  "area": "curriculum",
+  "topicCount": 100,
+  "byLevel": {
+    "A1": 20,
+    "A2": 20,
+    "B1": 20,
+    "B2": 20,
+    "C1": 20
+  },
+  "byDomain": {
+    "daily-life": 14,
+    "campus": 11,
+    "travel": 11,
+    "academic": 12,
+    "career": 11,
+    "culture": 10,
+    "exam": 10,
+    "interview": 11,
+    "debate": 10
+  }
+}

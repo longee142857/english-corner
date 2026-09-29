@@ -1,0 +1,49 @@
+{
+  "area": "vocabulary",
+  "entryCount": 131,
+  "byType": {
+    "word": 70,
+    "phrase": 30,
+    "collocation": 20,
+    "idiom": 11
+  },
+  "byLevel": {
+    "A1": 31,
+    "A2": 30,
+    "B1": 26,
+    "B2": 23,
+    "C1": 21
+  },
+  "byTheme": {
+    "greetings": 131,
+    "food": 0,
+    "shopping": 0,
+    "transport": 0,
+    "housing": 0,
+    "health": 0,
+    "weather": 0,
+    "hobbies": 0,
+    "school": 0,
+    "study-skills": 0,
+    "presentations": 0,
+    "meetings": 0,
+    "email": 0,
+    "job-interview": 0,
+    "workplace": 0,
+    "travel-problems": 0,
+    "culture-shock": 0,
+    "small-talk": 0,
+    "opinions": 0,
+    "idioms": 0,
+    "phrasal-verbs": 0,
+    "academic-writing": 0,
+    "exams": 0,
+    "emotions": 0,
+    "money": 0,
+    "technology": 0,
+    "environment": 0,
+    "news": 0,
+    "storytelling": 0
+  },
+  "packCount": 5
+}
