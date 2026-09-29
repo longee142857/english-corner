@@ -1,12 +1,19 @@
 {
   "area": "dialogues",
-  "dialogueCount": 40,
-  "turnCount": 320,
+  "dialogueCount": 200,
+  "turnCount": 1607,
   "byLevel": {
-    "A1": 40
+    "A1": 60,
+    "A2": 100,
+    "B1": 40
   },
   "byDomain": {
-    "campus": 20,
-    "daily-life": 20
+    "academic": 20,
+    "campus": 40,
+    "career": 20,
+    "culture": 20,
+    "daily-life": 40,
+    "exam": 20,
+    "travel": 40
   }
 }

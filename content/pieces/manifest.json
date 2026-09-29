@@ -1,0 +1,14 @@
+{
+  "area": "pieces",
+  "readingCount": 48,
+  "listeningCount": 36,
+  "debateCount": 46,
+  "total": 130,
+  "byLevel": {
+    "A1": 20,
+    "A2": 26,
+    "B1": 28,
+    "B2": 30,
+    "C1": 26
+  }
+}
