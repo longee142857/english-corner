@@ -13,7 +13,10 @@
       "example": "My head hurts today.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a pain in your head", "nod your head"]
+      "collocations": [
+        "a pain in your head",
+        "nod your head"
+      ]
     },
     {
       "id": "voc-health-a1-002",
@@ -24,7 +27,10 @@
       "example": "My left eye hurts in bright light.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a sore eye", "open one eye"]
+      "collocations": [
+        "a sore eye",
+        "open one eye"
+      ]
     },
     {
       "id": "voc-health-a1-003",
@@ -35,7 +41,10 @@
       "example": "She has a pain in her left ear.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a sore ear", "cover your ears"]
+      "collocations": [
+        "a sore ear",
+        "cover your ears"
+      ]
     },
     {
       "id": "voc-health-a1-004",
@@ -46,7 +55,10 @@
       "example": "I brush each tooth at night.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a sore tooth", "brush your teeth"]
+      "collocations": [
+        "a sore tooth",
+        "brush your teeth"
+      ]
     },
     {
       "id": "voc-health-a1-005",
@@ -57,7 +69,10 @@
       "example": "Wash your right hand before you eat.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["my left hand", "hold a hand"]
+      "collocations": [
+        "my left hand",
+        "hold a hand"
+      ]
     },
     {
       "id": "voc-health-a1-006",
@@ -68,7 +83,10 @@
       "example": "I hurt my arm at school.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["my left arm", "a broken arm"]
+      "collocations": [
+        "my left arm",
+        "a broken arm"
+      ]
     },
     {
       "id": "voc-health-a1-007",
@@ -79,7 +97,10 @@
       "example": "His leg is tired after the walk.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["my right leg", "a long leg"]
+      "collocations": [
+        "my right leg",
+        "a long leg"
+      ]
     },
     {
       "id": "voc-health-a1-008",
@@ -90,7 +111,10 @@
       "example": "My left foot hurts after the walk.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a sore foot", "both feet"]
+      "collocations": [
+        "a sore foot",
+        "both feet"
+      ]
     },
     {
       "id": "voc-health-a1-009",
@@ -101,7 +125,10 @@
       "example": "My stomach hurts after lunch.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a sore stomach", "an empty stomach"]
+      "collocations": [
+        "a sore stomach",
+        "an empty stomach"
+      ]
     },
     {
       "id": "voc-health-a1-010",
@@ -112,7 +139,10 @@
       "example": "I see a doctor when I am very sick.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["ask a doctor", "the family doctor"]
+      "collocations": [
+        "ask a doctor",
+        "the family doctor"
+      ]
     },
     {
       "id": "voc-health-a1-011",
@@ -123,7 +153,10 @@
       "example": "She is in the hospital.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["go to hospital", "a big hospital"]
+      "collocations": [
+        "go to hospital",
+        "a big hospital"
+      ]
     },
     {
       "id": "voc-health-a1-012",
@@ -134,7 +167,10 @@
       "example": "This medicine is for a cough.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["take medicine", "cold medicine"]
+      "collocations": [
+        "take medicine",
+        "cold medicine"
+      ]
     },
     {
       "id": "voc-health-a1-013",
@@ -145,7 +181,10 @@
       "example": "I am sick, so I stay in bed.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["feel sick", "very sick"]
+      "collocations": [
+        "feel sick",
+        "very sick"
+      ]
     },
     {
       "id": "voc-health-a1-014",
@@ -156,7 +195,10 @@
       "example": "I have a pain in my tooth.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a sharp pain", "back pain"]
+      "collocations": [
+        "a sharp pain",
+        "back pain"
+      ]
     },
     {
       "id": "voc-health-a1-015",
@@ -167,7 +209,10 @@
       "example": "The nurse checks my arm.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a kind nurse", "ask the nurse"]
+      "collocations": [
+        "a kind nurse",
+        "ask the nurse"
+      ]
     },
     {
       "id": "voc-health-a1-016",
@@ -178,7 +223,10 @@
       "example": "I cough at night when I have a cold.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a bad cough", "cough a lot"]
+      "collocations": [
+        "a bad cough",
+        "cough a lot"
+      ]
     },
     {
       "id": "voc-health-a1-017",
@@ -189,7 +237,10 @@
       "example": "The child has a fever.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a high fever", "fever medicine"]
+      "collocations": [
+        "a high fever",
+        "fever medicine"
+      ]
     },
     {
       "id": "voc-health-a1-018",
@@ -200,7 +251,10 @@
       "example": "I have a headache, so the room is too bright.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a bad headache", "a slight headache"]
+      "collocations": [
+        "a bad headache",
+        "a slight headache"
+      ]
     },
     {
       "id": "voc-health-a1-019",
@@ -266,7 +320,9 @@
       "example": "I have a sore throat and a cough.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["a very sore throat"]
+      "collocations": [
+        "a very sore throat"
+      ]
     },
     {
       "id": "voc-health-a1-025",
@@ -277,7 +333,9 @@
       "example": "You should see a doctor about that pain.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["see a doctor today"]
+      "collocations": [
+        "see a doctor today"
+      ]
     },
     {
       "id": "voc-health-a1-026",
@@ -288,7 +346,9 @@
       "example": "I feel sick in the car.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["feel sick after lunch"]
+      "collocations": [
+        "feel sick after lunch"
+      ]
     },
     {
       "id": "voc-health-a1-027",
@@ -299,7 +359,9 @@
       "example": "Sitting all day gives me back pain.",
       "level": "A1",
       "theme": "health",
-      "collocations": ["lower back pain"]
+      "collocations": [
+        "lower back pain"
+      ]
     }
   ]
 }
