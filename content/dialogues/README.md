@@ -24,4 +24,26 @@ Turns use the strings in `roles`. A1 lines stay short and concrete. Higher level
 
 ## Counts
 
-`manifest.json` records `dialogueCount`, `turnCount`, `byLevel`, and `byDomain`. Those numbers are the sum of the JSON files in this folder.
+`manifest.json` is the source of truth. This bank has 300 dialogues and 2408 turns.
+
+| Level | Dialogues |
+| --- | --- |
+| A1 | 60 |
+| A2 | 100 |
+| B1 | 60 |
+| B2 | 60 |
+| C1 | 20 |
+
+| Domain | Dialogues |
+| --- | --- |
+| daily-life | 40 |
+| campus | 40 |
+| travel | 40 |
+| academic | 20 |
+| career | 20 |
+| culture | 40 |
+| exam | 40 |
+| interview | 40 |
+| debate | 20 |
+
+Files: `daily-life-a1-01`, `daily-life-a2-01`, `campus-a1-01`, `campus-a2-01`, `travel-a1-01`, `travel-a2-01`, `academic-b1-01`, `career-b1-01`, `culture-a2-01`, `culture-b2-01`, `exam-a2-01`, `exam-b2-01`, `interview-b1-01`, `interview-c1-01`, `debate-b2-01`.

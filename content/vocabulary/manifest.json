@@ -1,18 +1,18 @@
 {
   "area": "vocabulary",
-  "entryCount": 912,
+  "entryCount": 1041,
   "byType": {
-    "word": 532,
-    "phrase": 164,
-    "collocation": 141,
-    "idiom": 75
+    "word": 609,
+    "phrase": 185,
+    "collocation": 161,
+    "idiom": 86
   },
   "byLevel": {
-    "A1": 212,
-    "A2": 204,
-    "B1": 178,
-    "B2": 161,
-    "C1": 157
+    "A1": 241,
+    "A2": 233,
+    "B1": 205,
+    "B2": 184,
+    "C1": 178
   },
   "byTheme": {
     "greetings": 131,
@@ -22,7 +22,7 @@
     "housing": 129,
     "health": 127,
     "weather": 131,
-    "hobbies": 0,
+    "hobbies": 129,
     "school": 0,
     "study-skills": 0,
     "presentations": 0,
@@ -45,5 +45,5 @@
     "news": 0,
     "storytelling": 0
   },
-  "packCount": 35
+  "packCount": 40
 }
