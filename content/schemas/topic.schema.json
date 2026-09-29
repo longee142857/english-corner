@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "topic.schema.json",
+  "title": "Curriculum topic",
+  "description": "One object inside the array at content/curriculum/topics.json.",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "id",
+    "level",
+    "domain",
+    "themes",
+    "title",
+    "summary",
+    "canDo",
+    "lessonOutline",
+    "conversationPrompts",
+    "grammarFocus",
+    "functions"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^topic-[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "level": {
+      "type": "string",
+      "enum": ["A1", "A2", "B1", "B2", "C1"]
+    },
+    "domain": {
+      "type": "string",
+      "enum": [
+        "daily-life",
+        "campus",
+        "travel",
+        "academic",
+        "career",
+        "culture",
+        "exam",
+        "interview",
+        "debate"
+      ]
+    },
+    "themes": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "summary": { "type": "string", "minLength": 1 },
+    "canDo": {
+      "type": "array",
+      "minItems": 2,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "lessonOutline": {
+      "type": "array",
+      "minItems": 6,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "conversationPrompts": {
+      "type": "array",
+      "minItems": 4,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "grammarFocus": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "functions": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    }
+  }
+}

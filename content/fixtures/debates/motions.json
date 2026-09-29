@@ -1,0 +1,30 @@
+[
+  {
+    "id": "motion-fixtures-phones",
+    "kind": "debate",
+    "title": "Phones outside class",
+    "level": "B1",
+    "domain": "debate",
+    "themes": ["phones", "classroom"],
+    "motion": "Students should leave their phones outside class.",
+    "forPoints": [
+      "Phones pull attention away from speaking practice.",
+      "A phone-free room makes pair work fairer.",
+      "Students can collect phones again the moment class ends."
+    ],
+    "againstPoints": [
+      "Some students use their phone as a dictionary.",
+      "Families need a way to reach students in an emergency.",
+      "A total ban is hard to enforce and starts arguments."
+    ],
+    "usefulPhrases": [
+      "I see your point, but I still think...",
+      "The stronger reason is..."
+    ],
+    "followUps": [
+      "Would you ban phones only during speaking tasks?",
+      "How should a teacher handle an emergency call?"
+    ],
+    "source": "English Corner fixture"
+  }
+]

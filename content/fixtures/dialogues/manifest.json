@@ -1,0 +1,6 @@
+{
+  "area": "dialogues",
+  "title": "Fixture dialogues",
+  "description": "One cafe dialogue used to self-test the validator.",
+  "files": ["cafe.json"]
+}

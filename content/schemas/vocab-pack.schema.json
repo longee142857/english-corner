@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "vocab-pack.schema.json",
+  "title": "Vocabulary pack",
+  "description": "One pack object per file at content/vocabulary/packs/*.json. Entry ids use the voc- prefix and are unique across the corpus.",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["id", "theme", "level", "title", "entries"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^pack-[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "theme": { "type": "string", "minLength": 1 },
+    "level": {
+      "type": "string",
+      "enum": ["A1", "A2", "B1", "B2", "C1"]
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "required": [
+          "id",
+          "type",
+          "headword",
+          "pos",
+          "definition",
+          "example",
+          "level",
+          "theme",
+          "collocations"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^voc-[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["word", "phrase", "collocation", "idiom"]
+          },
+          "headword": { "type": "string", "minLength": 1 },
+          "pos": { "type": "string", "minLength": 1 },
+          "definition": { "type": "string", "minLength": 1 },
+          "example": { "type": "string", "minLength": 1 },
+          "level": {
+            "type": "string",
+            "enum": ["A1", "A2", "B1", "B2", "C1"]
+          },
+          "theme": { "type": "string", "minLength": 1 },
+          "collocations": {
+            "type": "array",
+            "items": { "type": "string", "minLength": 1 }
+          }
+        }
+      }
+    }
+  }
+}

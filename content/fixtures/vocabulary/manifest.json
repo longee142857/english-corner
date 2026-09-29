@@ -1,0 +1,6 @@
+{
+  "area": "vocabulary",
+  "title": "Fixture vocabulary",
+  "description": "One cafe pack used to self-test the validator.",
+  "files": ["cafe.json"]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "dlg-fixtures-cafe",
+    "title": "Meeting a classmate at the cafe",
+    "level": "A2",
+    "domain": "campus",
+    "themes": ["cafe", "introductions"],
+    "situation": "Two students share a table before English class and agree to practice.",
+    "roles": ["Alex", "Jordan"],
+    "turns": [
+      { "role": "Alex", "text": "Hi, is this seat free?" },
+      { "role": "Jordan", "text": "Yes, go ahead. I'm Jordan." },
+      { "role": "Alex", "text": "Thanks. I'm Alex. Are you in the morning English class?" },
+      { "role": "Jordan", "text": "I am. I just came from the library." },
+      { "role": "Alex", "text": "Same here. Do you want to practice the dialogue together?" },
+      { "role": "Jordan", "text": "Sure. I still mix up borrow and lend." },
+      { "role": "Alex", "text": "We can do two lines each, then order coffee." },
+      { "role": "Jordan", "text": "Perfect. I'll get the next round if we finish." }
+    ],
+    "followUps": [
+      "Ask what your partner did before class.",
+      "Invite them to study together tomorrow.",
+      "Order a drink for both of you."
+    ],
+    "usefulPhrases": [
+      "Is this seat free?",
+      "Do you want to practice together?",
+      "I'll get the next round."
+    ],
+    "source": "English Corner fixture"
+  }
+]

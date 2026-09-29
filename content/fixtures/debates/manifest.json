@@ -1,0 +1,6 @@
+{
+  "area": "debates",
+  "title": "Fixture debates",
+  "description": "One motion used to self-test the validator.",
+  "files": ["motions.json"]
+}

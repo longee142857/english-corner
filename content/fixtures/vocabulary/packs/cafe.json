@@ -1,0 +1,52 @@
+{
+  "id": "pack-fixtures-cafe",
+  "theme": "cafe",
+  "level": "A2",
+  "title": "Cafe words",
+  "entries": [
+    {
+      "id": "voc-fixtures-coffee",
+      "type": "word",
+      "headword": "coffee",
+      "pos": "noun",
+      "definition": "A hot drink made from roasted beans.",
+      "example": "I drink coffee before class.",
+      "level": "A1",
+      "theme": "cafe",
+      "collocations": ["black coffee", "a cup of coffee"]
+    },
+    {
+      "id": "voc-fixtures-good-morning",
+      "type": "phrase",
+      "headword": "good morning",
+      "pos": "phrase",
+      "definition": "A greeting used in the morning.",
+      "example": "Good morning, everyone.",
+      "level": "A1",
+      "theme": "cafe",
+      "collocations": ["good morning, everyone"]
+    },
+    {
+      "id": "voc-fixtures-grab-a-coffee",
+      "type": "collocation",
+      "headword": "grab a coffee",
+      "pos": "verb",
+      "definition": "To get a coffee quickly.",
+      "example": "Let's grab a coffee after the seminar.",
+      "level": "A2",
+      "theme": "cafe",
+      "collocations": ["grab a coffee later"]
+    },
+    {
+      "id": "voc-fixtures-on-the-house",
+      "type": "idiom",
+      "headword": "on the house",
+      "pos": "phrase",
+      "definition": "Free, paid for by the business.",
+      "example": "The second coffee is on the house.",
+      "level": "B1",
+      "theme": "cafe",
+      "collocations": ["the coffee is on the house"]
+    }
+  ]
+}

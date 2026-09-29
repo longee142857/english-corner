@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "counts": {
+    "topics": 0,
+    "dialogues": 0,
+    "turns": 0,
+    "vocabEntries": 0,
+    "readings": 0,
+    "listenings": 0,
+    "debates": 0
+  },
+  "topics": [],
+  "dialogues": [],
+  "vocabulary": [],
+  "pieces": [],
+  "note": "No content items were found. Corpus directories may not have landed yet. Re-run node scripts/build-index.mjs after adding JSON under content/."
+}

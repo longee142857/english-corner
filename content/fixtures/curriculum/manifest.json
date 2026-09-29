@@ -1,0 +1,6 @@
+{
+  "area": "curriculum",
+  "title": "Fixture curriculum",
+  "description": "One topic used to self-test the validator.",
+  "files": ["topics.json"]
+}

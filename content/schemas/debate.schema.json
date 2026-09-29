@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "debate.schema.json",
+  "title": "Debate motion",
+  "description": "One object inside the array at content/debates/motions.json. Indexed as a piece with kind debate.",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "id",
+    "kind",
+    "title",
+    "level",
+    "domain",
+    "themes",
+    "motion",
+    "forPoints",
+    "againstPoints",
+    "usefulPhrases",
+    "followUps",
+    "source"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^motion-[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "kind": { "const": "debate" },
+    "title": { "type": "string", "minLength": 1 },
+    "level": {
+      "type": "string",
+      "enum": ["A1", "A2", "B1", "B2", "C1"]
+    },
+    "domain": {
+      "type": "string",
+      "enum": [
+        "daily-life",
+        "campus",
+        "travel",
+        "academic",
+        "career",
+        "culture",
+        "exam",
+        "interview",
+        "debate"
+      ]
+    },
+    "themes": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "motion": { "type": "string", "minLength": 1 },
+    "forPoints": {
+      "type": "array",
+      "minItems": 3,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "againstPoints": {
+      "type": "array",
+      "minItems": 3,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "usefulPhrases": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "followUps": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "source": { "type": "string", "minLength": 1 }
+  }
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "listen-fixtures-directions",
+    "kind": "listening",
+    "title": "Asking the way to the station",
+    "level": "A2",
+    "domain": "travel",
+    "themes": ["directions"],
+    "roles": ["Sam", "Guide"],
+    "script": [
+      { "role": "Sam", "text": "Excuse me, how do I get to the station?" },
+      { "role": "Guide", "text": "Walk straight for two blocks, then turn left." },
+      { "role": "Sam", "text": "Is it far from here?" },
+      { "role": "Guide", "text": "About ten minutes on foot." },
+      { "role": "Sam", "text": "Should I take the bus instead?" },
+      { "role": "Guide", "text": "The number 4 stops across the street." },
+      { "role": "Sam", "text": "How often does it come?" },
+      { "role": "Guide", "text": "Every fifteen minutes until midnight." }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How long is the walk?",
+        "options": ["About ten minutes", "About an hour"],
+        "answer": 0,
+        "explanation": "The guide says about ten minutes on foot."
+      },
+      {
+        "id": "q2",
+        "question": "Which bus goes to the station?",
+        "options": ["The number 2", "The number 4"],
+        "answer": 1,
+        "explanation": "The guide names the number 4."
+      },
+      {
+        "id": "q3",
+        "question": "How often does the bus come?",
+        "options": ["Every hour", "Every fifteen minutes"],
+        "answer": 1,
+        "explanation": "The last line says every fifteen minutes until midnight."
+      }
+    ],
+    "source": "English Corner fixture"
+  }
+]

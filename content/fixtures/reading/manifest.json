@@ -1,0 +1,6 @@
+{
+  "area": "reading",
+  "title": "Fixture readings",
+  "description": "One short passage used to self-test the validator.",
+  "files": ["library.json"]
+}

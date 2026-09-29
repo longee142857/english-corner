@@ -1,0 +1,6 @@
+{
+  "area": "listening",
+  "title": "Fixture listenings",
+  "description": "One directions script used to self-test the validator.",
+  "files": ["directions.json"]
+}

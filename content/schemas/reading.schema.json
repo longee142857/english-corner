@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "reading.schema.json",
+  "title": "Reading piece",
+  "description": "One object inside an array file at content/reading/*.json.",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "id",
+    "kind",
+    "title",
+    "level",
+    "domain",
+    "themes",
+    "passage",
+    "questions",
+    "source"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^read-[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "kind": { "const": "reading" },
+    "title": { "type": "string", "minLength": 1 },
+    "level": {
+      "type": "string",
+      "enum": ["A1", "A2", "B1", "B2", "C1"]
+    },
+    "domain": {
+      "type": "string",
+      "enum": [
+        "daily-life",
+        "campus",
+        "travel",
+        "academic",
+        "career",
+        "culture",
+        "exam",
+        "interview",
+        "debate"
+      ]
+    },
+    "themes": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "passage": { "type": "string", "minLength": 1 },
+    "questions": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "required": ["id", "question", "options", "answer", "explanation"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "question": { "type": "string", "minLength": 1 },
+          "options": {
+            "type": "array",
+            "minItems": 2,
+            "items": { "type": "string", "minLength": 1 }
+          },
+          "answer": { "type": "integer", "minimum": 0 },
+          "explanation": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "source": { "type": "string", "minLength": 1 }
+  }
+}

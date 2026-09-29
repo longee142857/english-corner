@@ -1,0 +1,30 @@
+[
+  {
+    "id": "topic-fixtures-greetings",
+    "level": "A1",
+    "domain": "daily-life",
+    "themes": ["greetings"],
+    "title": "Saying hello",
+    "summary": "A first lesson on greeting classmates and introducing yourself.",
+    "canDo": [
+      "Greet someone and give your name.",
+      "Ask how someone is and answer."
+    ],
+    "lessonOutline": [
+      "Warm-up: wave and say hello.",
+      "Model dialogue with two names.",
+      "Practice I'm and My name is.",
+      "Ask and answer How are you?",
+      "Role-play meeting a classmate.",
+      "Exit check: introduce yourself in two sentences."
+    ],
+    "conversationPrompts": [
+      "You meet a new classmate. Introduce yourself.",
+      "Ask your partner how they are today.",
+      "Say goodbye at the end of class.",
+      "Introduce a friend to the group."
+    ],
+    "grammarFocus": ["be: am/is/are", "my/your"],
+    "functions": ["greeting", "introducing yourself"]
+  }
+]
