@@ -1,1 +1,389 @@
-PLACEHOLDER
+{
+  "id": "pack-health-a2",
+  "theme": "health",
+  "level": "A2",
+  "title": "Health and the body · A2",
+  "entries": [
+    {
+      "id": "voc-health-a2-001",
+      "type": "word",
+      "headword": "pharmacy",
+      "pos": "noun",
+      "definition": "A shop where you buy medicine and sometimes get simple health advice.",
+      "example": "The pharmacy is next to the station.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "at the pharmacy",
+        "a late pharmacy"
+      ]
+    },
+    {
+      "id": "voc-health-a2-002",
+      "type": "word",
+      "headword": "dentist",
+      "pos": "noun",
+      "definition": "A doctor who looks after teeth.",
+      "example": "I see the dentist twice a year.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "a good dentist",
+        "dentist appointment"
+      ]
+    },
+    {
+      "id": "voc-health-a2-003",
+      "type": "word",
+      "headword": "appointment",
+      "pos": "noun",
+      "definition": "A planned time to see a doctor, dentist, or similar professional.",
+      "example": "My appointment is at three.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "make an appointment",
+        "miss an appointment"
+      ]
+    },
+    {
+      "id": "voc-health-a2-004",
+      "type": "word",
+      "headword": "emergency",
+      "pos": "noun",
+      "definition": "A sudden serious situation that needs help at once.",
+      "example": "Call this number in an emergency.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "a medical emergency",
+        "emergency help"
+      ]
+    },
+    {
+      "id": "voc-health-a2-005",
+      "type": "word",
+      "headword": "ambulance",
+      "pos": "noun",
+      "definition": "A special vehicle that takes very sick or hurt people to hospital.",
+      "example": "An ambulance came in five minutes.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "call an ambulance",
+        "an ambulance siren"
+      ]
+    },
+    {
+      "id": "voc-health-a2-006",
+      "type": "word",
+      "headword": "bandage",
+      "pos": "noun",
+      "definition": "A strip of cloth or material used to cover a cut.",
+      "example": "The nurse puts a bandage on my hand.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "a clean bandage",
+        "change the bandage"
+      ]
+    },
+    {
+      "id": "voc-health-a2-007",
+      "type": "word",
+      "headword": "exercise",
+      "pos": "noun",
+      "definition": "Physical activity you do to stay healthy and strong.",
+      "example": "Walking is good exercise.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "daily exercise",
+        "do exercise"
+      ]
+    },
+    {
+      "id": "voc-health-a2-008",
+      "type": "word",
+      "headword": "rest",
+      "pos": "verb",
+      "definition": "To stop activity so your body can recover.",
+      "example": "Rest today and drink water.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "rest in bed",
+        "need to rest"
+      ]
+    },
+    {
+      "id": "voc-health-a2-009",
+      "type": "word",
+      "headword": "pill",
+      "pos": "noun",
+      "definition": "A small solid piece of medicine that you swallow.",
+      "example": "Take one pill after dinner.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "a white pill",
+        "pain pill"
+      ]
+    },
+    {
+      "id": "voc-health-a2-010",
+      "type": "word",
+      "headword": "infection",
+      "pos": "noun",
+      "definition": "An illness caused by germs growing in the body.",
+      "example": "The cut may get an infection if it stays dirty.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "an ear infection",
+        "a mild infection"
+      ]
+    },
+    {
+      "id": "voc-health-a2-011",
+      "type": "word",
+      "headword": "injury",
+      "pos": "noun",
+      "definition": "Harm to the body, often from a fall or an accident.",
+      "example": "The injury is not serious.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "a knee injury",
+        "a sports injury"
+      ]
+    },
+    {
+      "id": "voc-health-a2-012",
+      "type": "word",
+      "headword": "dizzy",
+      "pos": "adjective",
+      "definition": "Feeling that you might fall because your head seems to spin.",
+      "example": "I feel dizzy when I stand up fast.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "feel dizzy",
+        "a dizzy feeling"
+      ]
+    },
+    {
+      "id": "voc-health-a2-013",
+      "type": "word",
+      "headword": "weak",
+      "pos": "adjective",
+      "definition": "Lacking strength in your body.",
+      "example": "I am weak after the fever.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "feel weak",
+        "too weak to walk"
+      ]
+    },
+    {
+      "id": "voc-health-a2-014",
+      "type": "word",
+      "headword": "recover",
+      "pos": "verb",
+      "definition": "To become healthy again after illness or injury.",
+      "example": "She will recover in a few days.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "recover at home",
+        "fully recover"
+      ]
+    },
+    {
+      "id": "voc-health-a2-015",
+      "type": "word",
+      "headword": "patient",
+      "pos": "noun",
+      "definition": "A person who is receiving care from a doctor or nurse.",
+      "example": "The patient waits in a quiet room.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "a hospital patient",
+        "see a patient"
+      ]
+    },
+    {
+      "id": "voc-health-a2-016",
+      "type": "word",
+      "headword": "cream",
+      "pos": "noun",
+      "definition": "A soft medicine you put on your skin.",
+      "example": "Use this cream on the dry skin.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "skin cream",
+        "antiseptic cream"
+      ]
+    },
+    {
+      "id": "voc-health-a2-017",
+      "type": "word",
+      "headword": "bleed",
+      "pos": "verb",
+      "definition": "To lose blood from a cut or from inside the body.",
+      "example": "My finger will bleed if I do not cover it.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "bleed a little",
+        "stop the bleed"
+      ]
+    },
+    {
+      "id": "voc-health-a2-018",
+      "type": "word",
+      "headword": "breathe",
+      "pos": "verb",
+      "definition": "To take air into your body and let it out.",
+      "example": "Breathe slowly if you feel dizzy.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "breathe deeply",
+        "hard to breathe"
+      ]
+    },
+    {
+      "id": "voc-health-a2-019",
+      "type": "phrase",
+      "headword": "make an appointment",
+      "pos": "phrase",
+      "definition": "To arrange a time to see a doctor or dentist.",
+      "example": "I need to make an appointment for my tooth.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": []
+    },
+    {
+      "id": "voc-health-a2-020",
+      "type": "phrase",
+      "headword": "How are you feeling",
+      "pos": "phrase",
+      "definition": "A question you ask when someone has been ill.",
+      "example": "How are you feeling after the fever?",
+      "level": "A2",
+      "theme": "health",
+      "collocations": []
+    },
+    {
+      "id": "voc-health-a2-021",
+      "type": "phrase",
+      "headword": "get well soon",
+      "pos": "phrase",
+      "definition": "A kind wish for a person who is ill.",
+      "example": "Get well soon. We will save you a seat.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": []
+    },
+    {
+      "id": "voc-health-a2-022",
+      "type": "phrase",
+      "headword": "it hurts when I",
+      "pos": "phrase",
+      "definition": "Used to explain which movement or action causes pain.",
+      "example": "It hurts when I walk on this foot.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": []
+    },
+    {
+      "id": "voc-health-a2-023",
+      "type": "phrase",
+      "headword": "at the chemist's",
+      "pos": "phrase",
+      "definition": "The British way to say you are at the shop that sells medicine.",
+      "example": "I bought the cream at the chemist's this morning.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": []
+    },
+    {
+      "id": "voc-health-a2-024",
+      "type": "collocation",
+      "headword": "a runny nose",
+      "pos": "noun phrase",
+      "definition": "A nose that drips liquid, common with a cold.",
+      "example": "I have a runny nose and a sore throat.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "a bad runny nose"
+      ]
+    },
+    {
+      "id": "voc-health-a2-025",
+      "type": "collocation",
+      "headword": "blood pressure",
+      "pos": "noun phrase",
+      "definition": "The force of blood moving through your body, checked by a doctor.",
+      "example": "The nurse checks my blood pressure.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "high blood pressure"
+      ]
+    },
+    {
+      "id": "voc-health-a2-026",
+      "type": "collocation",
+      "headword": "first aid",
+      "pos": "noun phrase",
+      "definition": "Simple medical help you give before a doctor arrives.",
+      "example": "We learn first aid at the community center.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "basic first aid"
+      ]
+    },
+    {
+      "id": "voc-health-a2-027",
+      "type": "collocation",
+      "headword": "sick leave",
+      "pos": "noun phrase",
+      "definition": "Time away from work or school because you are ill.",
+      "example": "She is on sick leave until Monday.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": [
+        "paid sick leave"
+      ]
+    },
+    {
+      "id": "voc-health-a2-028",
+      "type": "idiom",
+      "headword": "under the weather",
+      "pos": "idiom",
+      "definition": "Feeling slightly ill, not seriously sick but not well either.",
+      "example": "I am under the weather, so I will skip the run.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": []
+    },
+    {
+      "id": "voc-health-a2-029",
+      "type": "idiom",
+      "headword": "on the mend",
+      "pos": "idiom",
+      "definition": "Getting better after an illness or injury.",
+      "example": "He is on the mend and can eat normally again.",
+      "level": "A2",
+      "theme": "health",
+      "collocations": []
+    }
+  ]
+}
