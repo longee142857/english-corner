@@ -1,0 +1,303 @@
+{
+  "id": "pack-greetings-b2",
+  "theme": "greetings",
+  "level": "B2",
+  "title": "Greetings and introductions · B2",
+  "entries": [
+    {
+      "id": "voc-greetings-b2-001",
+      "type": "word",
+      "headword": "rapport",
+      "pos": "noun",
+      "definition": "A friendly understanding between people that makes talk feel easy.",
+      "example": "The volunteer built rapport with new members in minutes.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "build rapport",
+        "easy rapport"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-002",
+      "type": "word",
+      "headword": "etiquette",
+      "pos": "noun",
+      "definition": "The set of polite rules for behavior in a social or professional setting.",
+      "example": "Business etiquette here includes a short handshake.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "social etiquette",
+        "follow etiquette"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-003",
+      "type": "word",
+      "headword": "protocol",
+      "pos": "noun",
+      "definition": "The official rules for how to greet or treat people in a formal setting.",
+      "example": "Royal protocol says who speaks first.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "follow protocol",
+        "greeting protocol"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-004",
+      "type": "word",
+      "headword": "salutation",
+      "pos": "noun",
+      "definition": "The word or phrase you use to open a conversation or a letter.",
+      "example": "Dear colleagues is a safe salutation in a work email.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "a formal salutation",
+        "choose a salutation"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-005",
+      "type": "word",
+      "headword": "reserved",
+      "pos": "adjective",
+      "definition": "Slow to show feelings or start a conversation with new people.",
+      "example": "He is reserved with strangers but warm with friends.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "a reserved manner",
+        "rather reserved"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-006",
+      "type": "word",
+      "headword": "outgoing",
+      "pos": "adjective",
+      "definition": "Enjoying meeting people and starting conversations.",
+      "example": "Outgoing hosts make a new club feel friendly.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "an outgoing person",
+        "naturally outgoing"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-007",
+      "type": "word",
+      "headword": "compliment",
+      "pos": "noun",
+      "definition": "A remark that praises someone's appearance, work, or character.",
+      "example": "She opened with a sincere compliment about his talk.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "pay a compliment",
+        "a polite compliment"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-008",
+      "type": "word",
+      "headword": "awkward",
+      "pos": "adjective",
+      "definition": "Making you feel uncomfortable or unsure what to say.",
+      "example": "There was an awkward silence after the wrong name.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "an awkward pause",
+        "feel awkward"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-009",
+      "type": "word",
+      "headword": "reintroduce",
+      "pos": "verb",
+      "definition": "To present someone again, or to present yourself after a long gap.",
+      "example": "Let me reintroduce the speaker before questions.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "reintroduce yourself",
+        "reintroduce a guest"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-010",
+      "type": "word",
+      "headword": "overlook",
+      "pos": "verb",
+      "definition": "To fail to notice someone or something, often by accident.",
+      "example": "Sorry I did not wave. I did not mean to overlook you.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "overlook a guest",
+        "easily overlook"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-011",
+      "type": "word",
+      "headword": "acquainted",
+      "pos": "adjective",
+      "definition": "Knowing someone, but usually not very well yet.",
+      "example": "I am acquainted with her through the book club.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "get acquainted",
+        "already acquainted"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-012",
+      "type": "word",
+      "headword": "cordial",
+      "pos": "adjective",
+      "definition": "Warm and friendly in a polite, slightly formal way.",
+      "example": "Their cordial greeting put the visitors at ease.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "a cordial welcome",
+        "cordial relations"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-013",
+      "type": "phrase",
+      "headword": "I do not think we have met",
+      "pos": "phrase",
+      "definition": "A polite line you use when you are not sure you know someone.",
+      "example": "I do not think we have met. I am Hannah.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b2-014",
+      "type": "phrase",
+      "headword": "allow me to introduce",
+      "pos": "phrase",
+      "definition": "A formal way to present one person to another.",
+      "example": "Allow me to introduce our guest speaker, Professor Adeyemi.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b2-015",
+      "type": "phrase",
+      "headword": "it has been ages",
+      "pos": "phrase",
+      "definition": "An informal way to say you have not seen someone for a very long time.",
+      "example": "It has been ages. What have you been doing?",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b2-016",
+      "type": "phrase",
+      "headword": "we got off on the wrong foot",
+      "pos": "phrase",
+      "definition": "We started a relationship badly and felt uncomfortable.",
+      "example": "Sorry about yesterday. I think we got off on the wrong foot.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b2-017",
+      "type": "collocation",
+      "headword": "strike up a conversation",
+      "pos": "verb + noun",
+      "definition": "To start talking with someone you have just met.",
+      "example": "He can strike up a conversation with almost anyone.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "strike up a conversation easily"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-018",
+      "type": "collocation",
+      "headword": "exchange pleasantries",
+      "pos": "verb + noun",
+      "definition": "To say polite, light things like hello and how are you.",
+      "example": "Colleagues exchange pleasantries before the meeting starts.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "exchange a few pleasantries"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-019",
+      "type": "collocation",
+      "headword": "social etiquette",
+      "pos": "adjective + noun",
+      "definition": "The polite rules people follow when they meet and talk.",
+      "example": "Removing your shoes indoors is part of social etiquette here.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": [
+        "local social etiquette"
+      ]
+    },
+    {
+      "id": "voc-greetings-b2-020",
+      "type": "collocation",
+      "headword": "a nod of recognition",
+      "pos": "noun phrase",
+      "definition": "A small movement of the head that shows you know someone.",
+      "example": "She gave me a nod of recognition across the room.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b2-021",
+      "type": "idiom",
+      "headword": "fancy seeing you here",
+      "pos": "idiom",
+      "definition": "Said when you are surprised and pleased to meet someone in an unexpected place.",
+      "example": "Fancy seeing you here. I thought you were still abroad.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b2-022",
+      "type": "idiom",
+      "headword": "a familiar face",
+      "pos": "idiom",
+      "definition": "Someone you recognize, which can make a new place feel safer.",
+      "example": "It was good to see a familiar face at the conference.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b2-023",
+      "type": "idiom",
+      "headword": "feel out of place",
+      "pos": "idiom",
+      "definition": "To feel that you do not belong in a group or situation.",
+      "example": "I feel out of place until someone comes over and says hello.",
+      "level": "B2",
+      "theme": "greetings",
+      "collocations": []
+    }
+  ]
+}

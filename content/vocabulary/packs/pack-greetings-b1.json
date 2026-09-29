@@ -1,0 +1,344 @@
+{
+  "id": "pack-greetings-b1",
+  "theme": "greetings",
+  "level": "B1",
+  "title": "Greetings and introductions · B1",
+  "entries": [
+    {
+      "id": "voc-greetings-b1-001",
+      "type": "word",
+      "headword": "acquaintance",
+      "pos": "noun",
+      "definition": "A person you know a little, but who is not a close friend.",
+      "example": "I said hello to an acquaintance from my old office.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "a casual acquaintance",
+        "nod to an acquaintance"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-002",
+      "type": "word",
+      "headword": "reunion",
+      "pos": "noun",
+      "definition": "A meeting of people who have not been together for a long time.",
+      "example": "Our school reunion was full of old stories.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "a family reunion",
+        "attend a reunion"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-003",
+      "type": "word",
+      "headword": "hospitality",
+      "pos": "noun",
+      "definition": "The friendly way you welcome and look after guests.",
+      "example": "Their hospitality made me feel at home at once.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "generous hospitality",
+        "offer hospitality"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-004",
+      "type": "word",
+      "headword": "gesture",
+      "pos": "noun",
+      "definition": "A movement of your hand, head, or body that shows a feeling or greeting.",
+      "example": "A bow is a common greeting gesture in Japan.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "a friendly gesture",
+        "a small gesture"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-005",
+      "type": "word",
+      "headword": "courtesy",
+      "pos": "noun",
+      "definition": "Polite behavior that shows respect for other people.",
+      "example": "She thanked the driver out of courtesy.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "common courtesy",
+        "a simple courtesy"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-006",
+      "type": "word",
+      "headword": "impression",
+      "pos": "noun",
+      "definition": "The feeling or opinion you form about someone when you first meet.",
+      "example": "His calm smile left a good impression.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "first impression",
+        "make an impression"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-007",
+      "type": "word",
+      "headword": "bow",
+      "pos": "verb",
+      "definition": "To bend your head or upper body forward as a formal greeting.",
+      "example": "Visitors often bow when they meet the host.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "bow slightly",
+        "bow in greeting"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-008",
+      "type": "word",
+      "headword": "cheek",
+      "pos": "noun",
+      "definition": "The soft side of your face, sometimes touched in a greeting kiss.",
+      "example": "In that city, friends kiss each other on the cheek.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "kiss on the cheek",
+        "both cheeks"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-009",
+      "type": "word",
+      "headword": "fluent",
+      "pos": "adjective",
+      "definition": "Able to speak a language easily and smoothly.",
+      "example": "She is fluent in English and Spanish.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "fluent speaker",
+        "become fluent"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-010",
+      "type": "word",
+      "headword": "accent",
+      "pos": "noun",
+      "definition": "A way of pronouncing words that shows where you are from.",
+      "example": "I like his soft southern accent.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "a strong accent",
+        "a regional accent"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-011",
+      "type": "word",
+      "headword": "culture",
+      "pos": "noun",
+      "definition": "The shared customs, ideas, and ways of living of a group of people.",
+      "example": "Greeting customs change from culture to culture.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "local culture",
+        "learn a culture"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-012",
+      "type": "word",
+      "headword": "custom",
+      "pos": "noun",
+      "definition": "A usual way of doing something in a particular place or group.",
+      "example": "It is the custom here to shake hands.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "an old custom",
+        "follow a custom"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-013",
+      "type": "word",
+      "headword": "mingle",
+      "pos": "verb",
+      "definition": "To move around a group and talk to different people.",
+      "example": "Try to mingle for ten minutes before you sit down.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "mingle with guests",
+        "time to mingle"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-014",
+      "type": "word",
+      "headword": "approachable",
+      "pos": "adjective",
+      "definition": "Friendly and easy to start a conversation with.",
+      "example": "The new host is very approachable.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "an approachable person",
+        "look approachable"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-015",
+      "type": "phrase",
+      "headword": "how have you been",
+      "pos": "phrase",
+      "definition": "A question you ask when you have not seen someone for a while.",
+      "example": "How have you been since the summer course?",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b1-016",
+      "type": "phrase",
+      "headword": "let me introduce myself",
+      "pos": "phrase",
+      "definition": "A polite way to start telling people who you are.",
+      "example": "Let me introduce myself. I am the new club leader.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b1-017",
+      "type": "phrase",
+      "headword": "I would like you to meet",
+      "pos": "phrase",
+      "definition": "Words you use when you present one person to another.",
+      "example": "I would like you to meet my classmate, Nora.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b1-018",
+      "type": "phrase",
+      "headword": "keep in touch",
+      "pos": "phrase",
+      "definition": "To continue to talk or write to someone after you part.",
+      "example": "Let's keep in touch after the semester ends.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "keep in touch online"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-019",
+      "type": "phrase",
+      "headword": "it is a pleasure to meet you",
+      "pos": "phrase",
+      "definition": "A formal way to say you are glad to meet someone.",
+      "example": "It is a pleasure to meet you, Dr Singh.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b1-020",
+      "type": "collocation",
+      "headword": "make a good impression",
+      "pos": "verb + noun",
+      "definition": "To cause someone to think well of you at the start.",
+      "example": "Dress neatly if you want to make a good impression.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "make a good impression quickly"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-021",
+      "type": "collocation",
+      "headword": "mutual friend",
+      "pos": "adjective + noun",
+      "definition": "A friend that two people both know.",
+      "example": "We discovered we have a mutual friend in Seoul.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "through a mutual friend"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-022",
+      "type": "collocation",
+      "headword": "on first meeting",
+      "pos": "preposition + noun",
+      "definition": "At the time when two people see each other for the first time.",
+      "example": "He seemed shy on first meeting, then relaxed.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b1-023",
+      "type": "collocation",
+      "headword": "cultural difference",
+      "pos": "adjective + noun",
+      "definition": "A way that customs or values are not the same between groups.",
+      "example": "A greeting can show a cultural difference.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": [
+        "notice a cultural difference"
+      ]
+    },
+    {
+      "id": "voc-greetings-b1-024",
+      "type": "idiom",
+      "headword": "break the ice",
+      "pos": "idiom",
+      "definition": "To say or do something that helps people relax at the start.",
+      "example": "The host told a short story to break the ice.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b1-025",
+      "type": "idiom",
+      "headword": "put someone at ease",
+      "pos": "idiom",
+      "definition": "To help a person stop feeling nervous.",
+      "example": "A warm question can put someone at ease at a first meeting.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-b1-026",
+      "type": "idiom",
+      "headword": "on first-name terms",
+      "pos": "idiom",
+      "definition": "Friendly enough with someone to use first names.",
+      "example": "After one meeting we were already on first-name terms.",
+      "level": "B1",
+      "theme": "greetings",
+      "collocations": []
+    }
+  ]
+}
