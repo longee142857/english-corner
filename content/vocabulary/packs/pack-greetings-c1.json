@@ -1,0 +1,275 @@
+{
+  "id": "pack-greetings-c1",
+  "theme": "greetings",
+  "level": "C1",
+  "title": "Greetings and introductions · C1",
+  "entries": [
+    {
+      "id": "voc-greetings-c1-001",
+      "type": "word",
+      "headword": "decorum",
+      "pos": "noun",
+      "definition": "Behavior that is correct and polite for a formal occasion.",
+      "example": "She greeted the ambassador with perfect decorum.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "observe decorum",
+        "a breach of decorum"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-002",
+      "type": "word",
+      "headword": "aloof",
+      "pos": "adjective",
+      "definition": "Cool and distant, not wanting to join in friendly talk.",
+      "example": "His aloof greeting made the newcomers hesitate.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "remain aloof",
+        "an aloof manner"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-003",
+      "type": "word",
+      "headword": "affable",
+      "pos": "adjective",
+      "definition": "Easy to talk to, pleasant, and good-natured.",
+      "example": "The affable chair put every guest at ease within a minute.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "an affable host",
+        "affable manner"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-004",
+      "type": "word",
+      "headword": "perfunctory",
+      "pos": "adjective",
+      "definition": "Done quickly and without real feeling, because it is expected.",
+      "example": "He gave a perfunctory hello and returned to his phone.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "a perfunctory greeting",
+        "perfunctory smile"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-005",
+      "type": "word",
+      "headword": "deference",
+      "pos": "noun",
+      "definition": "Polite respect you show to someone of higher status or age.",
+      "example": "Younger staff showed deference by greeting the director first.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "show deference",
+        "with deference"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-006",
+      "type": "word",
+      "headword": "familiarity",
+      "pos": "noun",
+      "definition": "A relaxed closeness that can be friendly or, sometimes, too casual.",
+      "example": "Using a nickname too soon can suggest unwanted familiarity.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "easy familiarity",
+        "a degree of familiarity"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-007",
+      "type": "word",
+      "headword": "overture",
+      "pos": "noun",
+      "definition": "A first move toward friendship, talk, or agreement.",
+      "example": "She appreciated his friendly overture at the reception.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "a social overture",
+        "make an overture"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-008",
+      "type": "word",
+      "headword": "reconcile",
+      "pos": "verb",
+      "definition": "To become friendly again after a disagreement or a cold distance.",
+      "example": "I hope the two friends reconcile at the reunion.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "reconcile with",
+        "finally reconcile"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-009",
+      "type": "word",
+      "headword": "stilted",
+      "pos": "adjective",
+      "definition": "Stiff and unnatural, especially in speech or manners.",
+      "example": "The conversation stayed stilted until someone laughed.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "stilted small talk",
+        "a stilted exchange"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-010",
+      "type": "word",
+      "headword": "convivial",
+      "pos": "adjective",
+      "definition": "Cheerful and friendly, in a way that makes people enjoy being together.",
+      "example": "A convivial host can rescue even a formal reception.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "a convivial atmosphere",
+        "convivial company"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-011",
+      "type": "phrase",
+      "headword": "allow me to extend a welcome",
+      "pos": "phrase",
+      "definition": "A formal way to greet a guest on behalf of a group.",
+      "example": "Allow me to extend a welcome to our visitors from Osaka.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-c1-012",
+      "type": "phrase",
+      "headword": "I trust you had a pleasant journey",
+      "pos": "phrase",
+      "definition": "A formal, polite question-like remark after someone arrives from a trip.",
+      "example": "I trust you had a pleasant journey. May I take your coat?",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-c1-013",
+      "type": "phrase",
+      "headword": "we appear to have started off badly",
+      "pos": "phrase",
+      "definition": "A careful way to say a relationship began with a misunderstanding.",
+      "example": "We appear to have started off badly, and I would like to put that right.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-c1-014",
+      "type": "phrase",
+      "headword": "may I present",
+      "pos": "phrase",
+      "definition": "A very formal way to introduce one person to another.",
+      "example": "May I present Dr Okonkwo, who is joining us this evening.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-c1-015",
+      "type": "collocation",
+      "headword": "observe protocol",
+      "pos": "verb + noun",
+      "definition": "To follow the official rules for a formal greeting or event.",
+      "example": "Junior staff observe protocol and greet the chair first.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "strictly observe protocol"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-016",
+      "type": "collocation",
+      "headword": "a breach of etiquette",
+      "pos": "noun phrase",
+      "definition": "An action that breaks a polite social rule.",
+      "example": "Using a nickname too soon can be a breach of etiquette.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-c1-017",
+      "type": "collocation",
+      "headword": "social overture",
+      "pos": "adjective + noun",
+      "definition": "A first friendly action meant to open a relationship.",
+      "example": "Ignoring a social overture can feel like a snub.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "reject a social overture"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-018",
+      "type": "collocation",
+      "headword": "mutual acquaintance",
+      "pos": "adjective + noun",
+      "definition": "A person both speakers know, though neither is close to them.",
+      "example": "We found we had a mutual acquaintance at the embassy.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": [
+        "through a mutual acquaintance"
+      ]
+    },
+    {
+      "id": "voc-greetings-c1-019",
+      "type": "idiom",
+      "headword": "get off on the wrong foot",
+      "pos": "idiom",
+      "definition": "To begin a relationship or activity in an unfortunate way.",
+      "example": "I do not want us to get off on the wrong foot, so let me explain.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-c1-020",
+      "type": "idiom",
+      "headword": "rub someone the wrong way",
+      "pos": "idiom",
+      "definition": "To annoy a person without necessarily intending to.",
+      "example": "A cold greeting can rub someone the wrong way at a party.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": []
+    },
+    {
+      "id": "voc-greetings-c1-021",
+      "type": "idiom",
+      "headword": "on nodding terms",
+      "pos": "idiom",
+      "definition": "Knowing someone only well enough to nod when you meet.",
+      "example": "We are on nodding terms, but I have never learned his name.",
+      "level": "C1",
+      "theme": "greetings",
+      "collocations": []
+    }
+  ]
+}
